@@ -1,0 +1,23 @@
+{
+   "name": "Pokki Molecule",
+   "version": "1.0",
+   "icons": {
+        "19": "img/icon-19x19.png",
+        "29": "img/icon-29x29.png",
+        "42": "img/icon-42x42.png",
+        "256": "img/icon-256x256.png"
+   },
+   "description": "An example Pokki",
+   "window": "window.html",
+   "background": "background.html",
+   "scrambled_data": [
+        {
+            "key": "consumer_key",
+            "value": "ywXChZq8lgeBj5IoonqDmQ0hEp3xWdhENMReiDgPfRJsTg667R"
+        },
+        {
+            "key": "consumer_secret",
+            "value": "dHI7bl7ToBVYDMe3GvFV8R0b4qo6QYfiPz2OzsTyBppM86f6JU"
+        }
+   ]
+}
